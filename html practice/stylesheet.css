@@ -1,0 +1,38 @@
+h1 {
+  border-style: dotted;
+  border-width: 10px;
+  border-color: pink;
+  background-color: #fe8019;
+  margin: 50px 100px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-right: 100px;
+  text-align: center;
+}
+.Pt1 {
+width: 50%;
+height: auto;
+background-color: #C2CBD2;
+}
+.Pt2 {
+  width: 50%;
+  height: auto;
+  background-color: #F99290;
+  float: right;
+  margin: auto;
+
+}
+
+#C1{
+  background-color: #DFDCBB;
+  
+}
+#C2{
+  background-color: #DFDCBB;
+}
+#C3 {
+  background-color: #D4AF37;
+}
+#C4 {
+  background-color: #D4AF37;
+}
